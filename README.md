@@ -1,3 +1,14 @@
+### Hi there, I'm Pulkit Singh - aka [X3eRo0](https://x3ero0.tech/) 👋
+
+
+## I'm a Aspiring Hacker, CTF Player!!
+
+- 🏁 Capture The Flag with [Zh3R0](https://ctftime.org/team/116018)
+- 💻 I’m currently learning Heap Exploitation 
+- 🥋 Blue Belt in Hacking [PwnCollege](https://pwn.college/belts)
+- 📚 Published a single page article in 1st issue of [PagedOut](https://pagedout.institute/)
+
+
 <div>
   <img align="left" alt="X3eRo0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=X3eRo0&show_icons=true&theme=dracula" />
   <img algin="right" alt="X3eRo0's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3eRo0&theme=dracula" />
