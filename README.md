@@ -12,4 +12,9 @@
 
 # Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating an Emulator (EMULATION 101) | 8-Bit Virtual CPU | Zh3r0](https://www.youtube.com/watch?v=sVVOSkHEYBM)
+- [Break it Baby Crackme | Hackcon-2019 CTF](https://www.youtube.com/watch?v=SZ7mqKZCUl0)
+- [Trying To Make Your Binary Shut Up!](https://www.youtube.com/watch?v=BLLXPxpc6os)
+- [Client-Side is the Dark SIde | Introduction to JavaScript](https://www.youtube.com/watch?v=rg-iiG3Kes0)
+- [*PWNED* - 03 - Tutorial - How To send Spoofed Emails | EPHP-SPOOFER](https://www.youtube.com/watch?v=Bj8PAFTrft8)
 <!-- YOUTUBE:END -->
