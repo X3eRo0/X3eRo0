@@ -1,6 +1,7 @@
-<img align="left" alt="X3eRo0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=X3eRo0&show_icons=true&theme=dracula" />
-<img algin="right" alt="X3eRo0's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3eRo0&theme=dracula" />
-
+<div>
+  <img align="left" alt="X3eRo0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=X3eRo0&show_icons=true&theme=dracula" />
+  <img algin="right" alt="X3eRo0's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3eRo0&theme=dracula" />
+</div>
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Real_world_crackme_writeup](https://x3ero0.tech/posts/real_world_crackme_writeup/)
