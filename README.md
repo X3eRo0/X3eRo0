@@ -16,11 +16,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Real_world_crackme_writeup](https://x3ero0.tech/posts/real_world_crackme_writeup/)
-- [Float Writeup](https://x3ero0.tech/posts/float-writeup/)
 - [[0x007] fl04t](https://x3ero0.tech/crackmes/fl04t/)
-- [Hell86 - ttlhacker](https://x3ero0.tech/posts/hell86_from_ttlhacker/)
-- [Reversing_a_malware_in_disguise](https://x3ero0.tech/posts/reversing_a_malware_in_disguise/)
+- [HSCTF License](https://x3ero0.tech/posts/hsctf-license/)
+- [[0x006] WEB cr4kme](https://x3ero0.tech/crackmes/real_web_cr4kme/)
+- [Plaintext Attack on Zip](https://x3ero0.tech/posts/plaintext_attack_on_zip_legacy_crypto/)
+- [Year3000](https://x3ero0.tech/posts/year3000/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent YouTube Videos
