@@ -25,6 +25,7 @@
 
 # Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [HackASat2](https://www.youtube.com/watch?v=ouroWRoSp1w)
 - [Speedrunning a easy Reversing Challenge](https://www.youtube.com/watch?v=5AYGlq7LmTk)
 - [Creating an Emulator (EMULATION 101) | 8-Bit Virtual CPU | Zh3r0](https://www.youtube.com/watch?v=sVVOSkHEYBM)
 <!-- YOUTUBE:END -->
