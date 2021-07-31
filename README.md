@@ -1,7 +1,7 @@
 ### Hi there, I'm Pulkit Singh - aka [X3eRo0](https://x3ero0.tech/) 👋
 
 
-## I'm a Aspiring Hacker, CTF Player!!
+## I'm an Aspiring Hacker, CTF Player!!
 
 - 🏁 Capture The Flag with [Zh3R0](https://ctftime.org/team/116018)
 - 💻 I’m currently learning Heap Exploitation 
