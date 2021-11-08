@@ -29,5 +29,5 @@
 - [Easy Stack from pwn.eonew.cn](https://www.youtube.com/watch?v=HgyEuh1pjwo)
 - [HackASat2](https://www.youtube.com/watch?v=ouroWRoSp1w)
 - [Speedrunning an easy Reversing Challenge](https://www.youtube.com/watch?v=5AYGlq7LmTk)
-- [Creating an Emulator (EMULATION 101) | 8-Bit Virtual CPU | Zh3r0](https://www.youtube.com/watch?v=sVVOSkHEYBM)
+- [Creating an Emulator &lpar;EMULATION 101&rpar; | 8-Bit Virtual CPU | Zh3r0](https://www.youtube.com/watch?v=sVVOSkHEYBM)
 <!-- YOUTUBE:END -->
