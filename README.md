@@ -16,11 +16,11 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [or⊕w writeup from Balsn CTF 2021](https://x3ero0.github.io/posts/orxw_balsn_ctf_2021_pwn/)
 - [Easy_Kernel Writeup from K3RN3LCTF 2021](https://x3ero0.github.io/posts/easy_kernel_exploitation/)
 - [Hyperion Writeup](https://x3ero0.github.io/posts/hyperion/)
 - [Float Writeup](https://x3ero0.github.io/posts/float-writeup/)
 - [[0x007] fl04t](https://x3ero0.github.io/crackmes/fl04t/)
-- [Hell86 - ttlhacker](https://x3ero0.github.io/posts/hell86_from_ttlhacker/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent YouTube Videos
