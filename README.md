@@ -25,9 +25,9 @@
 
 # Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=ZEhG2C5ohoY)
 - [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=pTJTRPhWuWc)
 - [Easy Stack from pwn.eonew.cn](https://www.youtube.com/watch?v=HgyEuh1pjwo)
 - [HackASat2](https://www.youtube.com/watch?v=ouroWRoSp1w)
 - [Speedrunning an easy Reversing Challenge](https://www.youtube.com/watch?v=5AYGlq7LmTk)
-- [Creating an Emulator &lpar;EMULATION 101&rpar; | 8-Bit Virtual CPU | Zh3r0](https://www.youtube.com/watch?v=sVVOSkHEYBM)
 <!-- YOUTUBE:END -->
