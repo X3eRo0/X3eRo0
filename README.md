@@ -25,9 +25,9 @@
 
 # Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Solving Medium Level Crackme from Crackmes.one](https://www.youtube.com/watch?v=afzOkl0Adq8)
 - [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=ZEhG2C5ohoY)
 - [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=pTJTRPhWuWc)
 - [Easy Stack from pwn.eonew.cn](https://www.youtube.com/watch?v=HgyEuh1pjwo)
 - [HackASat2](https://www.youtube.com/watch?v=ouroWRoSp1w)
-- [Speedrunning an easy Reversing Challenge](https://www.youtube.com/watch?v=5AYGlq7LmTk)
 <!-- YOUTUBE:END -->
