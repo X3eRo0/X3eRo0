@@ -25,9 +25,9 @@
 
 # Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Playing No More Room in Hell with friends](https://www.youtube.com/watch?v=SWJd5gWZ_m0)
 - [Solving easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=IExtratyFZo)
 - [Solving Medium Level Crackme from Crackmes.one](https://www.youtube.com/watch?v=afzOkl0Adq8)
 - [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=ZEhG2C5ohoY)
 - [Reverse Engineering 2 Easy Crackmes from crackmes.one](https://www.youtube.com/watch?v=pTJTRPhWuWc)
-- [Easy Stack from pwn.eonew.cn](https://www.youtube.com/watch?v=HgyEuh1pjwo)
 <!-- YOUTUBE:END -->
